@@ -10,11 +10,11 @@ This GitHub is where I document that process in public.
 
 ## The 286 Builds
 
-The main project here is simple: 286 projects across different languages, tools, and types of software. The goal is simple too: get broad hands-on exposure, build consistently, and figure out what I want to go deeper on.
+The main project here is simple: 246 projects across different languages, tools, and types of software. The goal is simple too: get broad hands-on exposure, build consistently, and figure out what I want to go deeper on.
 
 Some of these are small, some go much deeper, and all of them are part of the same larger experiment: learn by doing, iterate in public, and keep the work visible.
 
 ## Start Here
 
-- [286 Builds](https://github.com/breakingthebot/286-builds)
+- [246 Builds](https://github.com/breakingthebot/286-builds)
 - Public repos include the build history, changelogs, and run or deployment instructions.
