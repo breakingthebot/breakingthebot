@@ -8,7 +8,7 @@ Most of what I know comes from working hands on, figuring things out in real env
 
 This GitHub is where I document that process in public.
 
-## The 286 Builds
+## The 246 Builds
 
 The main project here is simple: 246 projects across different languages, tools, and types of software. The goal is simple too: get broad hands-on exposure, build consistently, and figure out what I want to go deeper on.
 
